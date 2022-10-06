@@ -5,3 +5,11 @@
 このページの北海道実測切図は、網走市在住の小林耕一氏から提供された地図画像を、喜多耕一がQGISでトリミングし位置合わせしたものである。  
 画像には歪みがあるため、位置は地理院地図を参考に拡大縮小しており、すべての画像は同じ縮尺ではない。  
 
+QGISなどで表示する場合は、次のURLを設定してください。  
+https://koukita.github.io/hokkaidojissokukirizu/tile/{z}/{x}/{y}.jpg  
+ズームレベルは5～13です。  
+
+##地理院地図との2画面表示
+地理院地図と２画面表示で位置の比較ができます。  
+https://koukita.github.io/hokkaidojissokukirizu/map/
+
