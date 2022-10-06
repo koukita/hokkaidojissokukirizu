@@ -9,7 +9,7 @@ QGISなどで表示する場合は、次のURLを設定してください。
 https://koukita.github.io/hokkaidojissokukirizu/tile/{z}/{x}/{y}.jpg  
 ズームレベルは5～13です。  
 
-##地理院地図との2画面表示
+## 地理院地図との2画面表示
 地理院地図と２画面表示で位置の比較ができます。  
 https://koukita.github.io/hokkaidojissokukirizu/map/
 
