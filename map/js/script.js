@@ -23,7 +23,7 @@ var map_right = L.map('map_right', {
     center: [lat, lng],
     zoom: 10,
     minZoom: 5,
-    maxZoom: 13,
+    maxZoom: 14,
     zoomControl: true
 });
 

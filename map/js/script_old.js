@@ -10,7 +10,7 @@ var map = L.map('old_map', {
     center: [lat, lng],
     zoom: 10,
     minZoom: 5,
-    maxZoom: 13,
+    maxZoom: 14,
     zoomControl: true
 });
 
