@@ -13,3 +13,6 @@ https://koukita.github.io/hokkaidojissokukirizu/tile/{z}/{x}/{y}.jpg
 地理院地図と２画面表示で位置の比較ができます。  
 https://koukita.github.io/hokkaidojissokukirizu/map/
 
+## 更新履歴
+2026-06-25　福山の図を追加した。
+
